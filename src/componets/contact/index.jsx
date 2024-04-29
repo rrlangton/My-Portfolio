@@ -4,28 +4,28 @@ function Contact () {
         <div class="container">
             <div class="contact-card">
                 <div class="infos">
-                    <h6 class="section-subtitle">Get Here</h6>
-                    <h6 class="section-title mb-4">Contact Us</h6>
+                    <h6 class="section-subtitle">Robin Langton</h6>
+                    <h6 class="section-title mb-4">Contact Me</h6>
 
                     <div class="item">
                         <i class="ti-location-pin"></i>
                         <div class="">
-                            <h5>Location</h5>
-                            <p> 12345 Fake ST NoWhere AB Country</p>
+                            <h5>LinkedIn</h5>
+                            <p> https://www.linkedin.com/in/robinrlangton</p>
                         </div>                          
                     </div>
                     <div class="item">
                         <i class="ti-mobile"></i>
                         <div>
-                            <h5>Phone Number</h5>
-                            <p>(123) 456-7890</p>
+                            <h5>Git Hub</h5>
+                            <p>https://github.com/rrlangton</p>
                         </div>                          
                     </div>
                     <div class="item">
                         <i class="ti-email"></i>
                         <div class="mb-0">
                             <h5>Email Address</h5>
-                            <p>info@website.com</p>
+                            <p>rrlangton@gmail.com</p>
                         </div>
                     </div>
                     <div class="item">

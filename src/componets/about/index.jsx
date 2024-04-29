@@ -4,14 +4,14 @@ function About () {
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-5 col-lg-4">
-                    {/* <img src="assets/imgs/about.jpg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Creative studio Landing page" class="w-100 img-thumbnail mb-3"/> */}
+                    <img src="assets/imgs/about.jpg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Creative studio Landing page" class="w-100 img-thumbnail mb-3"/>
                 </div>
                 <div class="col-md-7 col-lg-8">
-                    {/* <h6 class="section-subtitle mb-0">We Create</h6> */}
-                    {/* <h6 class="section-title mb-3">Awesome Work</h6>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente cupiditate quas, amet harum perferendis minus, cum dolorum obcaecati iste aspernatur voluptatum aut.</p>
-                    <p>Cum laudantium unde nemo doloribus eligendi quodarum ea vitae dicta. Accusantium vero, ea? Alias, atque libero. Id, ut harum. </p>
-                    <p>consectetur adipisicing elit. Omnis quidem, quos iure a dolorum illum culpa quia nemo soluta, ratione harum beatae minus doloribus consectetur! Similique tempora sunt doloribus molestias.</p> */}
+                    <h6 class="section-subtitle mb-0">Jr Web Developer</h6>
+                    <h6 class="section-title mb-3">About Me</h6>
+                    <p>As a full stack web developer, I specialize in creating dynamic and responsive web applications using cutting-edge technologies. In this portfolio, I showcase my skills, projects, and experience, with a particular focus on my expertise in React.</p>
+                    <p>I have a strong understanding of modern JavaScript, including asynchronous programming.</p>
+                    <p>Experience building and implementing APIs to facilitate communication between front-end and back-end systems. Also proficient in SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) databases.</p>
                 </div>
             </div>
         </div>

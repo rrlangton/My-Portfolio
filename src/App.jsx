@@ -8,6 +8,7 @@ import Box from './componets/box'
 import About from './componets/about'
 import Skills from './componets/skills'
 import Portfolio from './componets/portfolio'
+import Education from './componets/education'
 import Contact from './componets/contact'
 import Footer from './componets/footer'
 
@@ -22,6 +23,7 @@ function App() {
       <About/>
       <Skills/>
       <Portfolio/>
+      <Education/>
       <Contact/>
       <Footer/>
     </>
