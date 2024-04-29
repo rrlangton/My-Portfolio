@@ -30,35 +30,35 @@ Welcome to my portfolio! As a full stack web developer, I specialize in creating
 
 - Description: Developed a CMS-style blog site using the MVC paradigm in its architectural structure, Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 - Technologies: Handlebars.js, sequelize, express-session, and Bootstrap
-- Link to project: https://rrlangton.github.io/Tech-Blog/
+- [Link to project](https://rrlangton.github.io/Tech-Blog/)
 
 ### Project2: Task Management App
 
 - Description: Created a task management application where users can create, update, and delete tasks, with real-time updates.
 - Technologies: React, Node.js, Express, MongoDB
-- Link to project:  https://rrlangton.github.io/Task-Board/
+- [Link to project](https://rrlangton.github.io/Task-Board/)
 
 ### Project3: Portfolio Website 
 
 - Description: Built this portfolio website to showcase my skills and projects, emphasizing my proficiency in React.
-- Technologies: React, HTML, CSS
-- Link to project: https://github.com/rrlangton/My-Portfolio
+- Technologies: React, HTML, SCSS
+- [Link to project](https://github.com/rrlangton/My-Portfolio)
 
 ## Contact Me
 
 I am actively seeking new opportunities and collaborations. If you're interested in working together or learning more about my projects, feel free to reach out to me:
 
 - Email: rrlangton@gmail.com
-- LinkedIn: https://www.linkedin.com/in/robinrlangton
-- GitHub: https://github.com/rrlangton
+- [LinkedIn](https://www.linkedin.com/in/robinrlangton)
+- [GitHub](https://github.com/rrlangton)
 
 Thank you for visiting my portfolio!
 
 ## Sources
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Template:
 - https://www.free-css.com/free-css-templates/page286/creative-studio
 
-Currently, two official plugins are available:
+Plugins:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
