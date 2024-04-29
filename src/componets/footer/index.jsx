@@ -13,7 +13,7 @@ function Footer () {
                                 <img src="assets/imgs/logo.png" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Creative studio Landing page"/>
                                 <h6>Robin Langton</h6>
                             </a>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae nobis fugit maxime deleniti minus optio accusamus, quam maiores explicabo sunt.</p> 
+                            <p>For the past 10 years, I've enjoyed working at fast-paced technology start-ups in Chicago, IL. I love solving challenging problems and I'm always eager to learn something new. I also like to make work fun!</p> 
                             <p class="mt-3">
                                 Copyright <script>document.write(new Date().getFullYear())</script> &copy; <a class="d-inline text-primary" href="http://www.devcrud.com">DevCRUD</a>
                             </p>                   
@@ -29,7 +29,7 @@ function Footer () {
                                     <a href="#about">About</a>
                                     <a href="#service">Skills</a>
                                     <a href="#portfolio">Portfolio</a>
-                                    <a href="#testmonail">Education</a>
+                                    <a href="#testmonail">Background</a>
                                 </div>
                             </div>
                         </li>

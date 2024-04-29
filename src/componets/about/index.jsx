@@ -4,7 +4,7 @@ function About () {
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-5 col-lg-4">
-                    <img src="assets/imgs/about.jpg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Creative studio Landing page" class="w-100 img-thumbnail mb-3"/>
+                    <img src="assets/imgs/stock.jpg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Creative studio Landing page" class="w-100 img-thumbnail mb-3"/>
                 </div>
                 <div class="col-md-7 col-lg-8">
                     <h6 class="section-subtitle mb-0">Jr Web Developer</h6>
