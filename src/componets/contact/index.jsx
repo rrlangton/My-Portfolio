@@ -8,14 +8,14 @@ function Contact () {
                     <h6 class="section-title mb-4">Contact Me</h6>
 
                     <div class="item">
-                        <i class="ti-location-pin"></i>
+                        <i class="ti-linkedin"></i>
                         <div class="">
                             <h5>LinkedIn</h5>
                             <p> https://www.linkedin.com/in/robinrlangton</p>
                         </div>                          
                     </div>
                     <div class="item">
-                        <i class="ti-mobile"></i>
+                        <i class="ti-github"></i>
                         <div>
                             <h5>Git Hub</h5>
                             <p>https://github.com/rrlangton</p>
@@ -26,13 +26,6 @@ function Contact () {
                         <div class="mb-0">
                             <h5>Email Address</h5>
                             <p>rrlangton@gmail.com</p>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <i class="ti-world"></i>
-                        <div class="mb-0">
-                            <h5>example.com</h5>
-                            <p>info@example.com</p>
                         </div>
                     </div>
                 </div>
