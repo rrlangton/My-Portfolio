@@ -7,7 +7,6 @@ import Header from "./componets/header";
 import Skills from "./componets/skills";
 import About from "./componets/about";
 import Portfolio from "./componets/portfolio";
-import Resume from "./componets/resume";
 import Contact from "./componets/contact";
 import Footer from "./componets/footer";
 
@@ -22,7 +21,6 @@ function App() {
         <About/> 
         <Skills/>
         <Portfolio/>
-        <Resume/>
         <Contact/>
       </section>
 
