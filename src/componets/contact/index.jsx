@@ -22,6 +22,13 @@ function Contact () {
                         </div>                          
                     </div>
                     <div class="item">
+                        <i class="ti-stackOverflow"></i>
+                        <div>
+                            <h5>Stack Overflow</h5>
+                            <p>https://stackoverflow.com/users/24826205/robin-langton?tab=profile</p>
+                        </div>                          
+                    </div>
+                    <div class="item">
                         <i class="ti-email"></i>
                         <div class="mb-0">
                             <h5>Email Address</h5>
