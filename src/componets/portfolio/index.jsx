@@ -6,7 +6,7 @@ function Portfolio () {
             <div class="row">
                 <div class="col-sm-4">
                     <div class="img-wrapper">
-                        <img src="assets/imgs/tech-blog.png" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Creative studio Landing page"/>
+                        <img src="assets/imgs/tech-blog.png" alt="image of login page of tech blog"/>
                         <div class="overlay">
                             <div class="overlay-infos">
                                 <h5>Tech Blog</h5>
@@ -16,7 +16,7 @@ function Portfolio () {
                         </div>
                     </div>
                     <div class="img-wrapper">
-                        <img src="assets/imgs/project2.png" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Creative studio Landing page"/>
+                        <img src="assets/imgs/project2.png" alt="image of a task management board"/>
                         <div class="overlay">
                             <div class="overlay-infos">
                                 <h5>Task Management App</h5>
@@ -28,7 +28,7 @@ function Portfolio () {
                 </div>
                 <div class="col-sm-4">
                     <div class="img-wrapper">
-                        <img src="assets/imgs/weatherdashboard.png" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Creative studio Landing page"/>
+                        <img src="assets/imgs/weatherdashboard.png" alt="image of weather dashboard"/>
                         <div class="overlay">
                             <div class="overlay-infos">
                                 <h5>Weather Dashboard</h5>
@@ -38,7 +38,7 @@ function Portfolio () {
                         </div>
                     </div>
                     <div class="img-wrapper">
-                        <img src="assets/imgs/rfd.png" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Creative studio Landing page"/>
+                        <img src="assets/imgs/rfd.png" alt="image of Free Sound Database home page"/>
                         <div class="overlay">
                             <div class="overlay-infos">
                                 <h5>Free Sound Database</h5>
@@ -50,7 +50,7 @@ function Portfolio () {
                 </div>
                 <div class="col-sm-4">
                     <div class="img-wrapper">
-                        <img src="assets/imgs/trivl.png" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Creative studio Landing page"/>
+                        <img src="assets/imgs/trivl.png" alt="image of trivl, trivia app"/>
                         <div class="overlay">
                             <div class="overlay-infos">
                                 <h5>'Trivl' Fun Trivia Game</h5>
@@ -60,7 +60,7 @@ function Portfolio () {
                         </div>
                     </div>
                     <div class="img-wrapper">
-                        <img src="assets/imgs/note-taker.png" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Creative studio Landing page"/>
+                        <img src="assets/imgs/note-taker.png" alt="image of a note taking app"/>
                         <div class="overlay">
                             <div class="overlay-infos">
                                 <h5>Note Taker</h5>

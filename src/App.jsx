@@ -4,9 +4,8 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 import Nav from "./componets/nav";
 import Header from "./componets/header";
-import Box from "./componets/box";
-import About from "./componets/about";
 import Skills from "./componets/skills";
+import About from "./componets/about";
 import Portfolio from "./componets/portfolio";
 import Resume from "./componets/resume";
 import Contact from "./componets/contact";
@@ -19,10 +18,9 @@ function App() {
     <>
       <Nav />
       <Header />
-      <section id="main-content"> 
+      <section id="main-content">
+        <About/> 
         <Skills/>
-        {/* <Box/> */}
-        <About/>
         <Portfolio/>
         <Resume/>
         <Contact/>

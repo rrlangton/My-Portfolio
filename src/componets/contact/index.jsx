@@ -22,10 +22,10 @@ function Contact () {
                         </div>                          
                     </div>
                     <div class="item">
-                        <i class="ti-stackOverflow"></i>
+                        <i class="ti-stack-overflow"></i>
                         <div>
                             <h5>Stack Overflow</h5>
-                            <p>https://stackoverflow.com/users/24826205/robin-langton?tab=profile</p>
+                            <p>https://stackoverflow.com/users/24826205/robin-langton</p>
                         </div>                          
                     </div>
                     <div class="item">
@@ -44,7 +44,7 @@ function Contact () {
                             <input type="email" class="form-control form-control-lg" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" required/>
                         </div>
                         <div class="form-group">
-                            <input type="password" class="form-control form-control-lg" id="exampleInputPassword1" placeholder="Password" required/>
+                            <input type="name" class="form-control form-control-lg" id="exampleInputName1" placeholder="Name" required/>
                         </div>
                         <div class="form-group">
                             <textarea name="contact-message" id="" cols="30" rows="7" class="form-control form-control-lg" placeholder="Message"></textarea>

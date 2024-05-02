@@ -10,10 +10,10 @@ function Footer () {
                         </li>
                         <li class="list-body">
                             <a href="#" class="logo">
-                                <img src="assets/imgs/logo.png" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Creative studio Landing page"/>
+                                <img src="assets/imgs/logo.png" alt="logo image"/>
                                 <h6>Robin Langton</h6>
                             </a>
-                            <p>For the past 10 years, I've enjoyed working at fast-paced technology start-ups in Chicago, IL. I love solving challenging problems and I'm always eager to learn something new.</p>                  
+                            <p>I've enjoyed working at fast-paced technology start-ups in Chicago, IL for the past ten years. I love solving challenging problems and I'm always eager to learn something new.</p>                  
                         </li>
                     </ul>
                     <ul class="list">
