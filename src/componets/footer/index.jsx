@@ -27,7 +27,7 @@ function Footer () {
                                     <a href="#about">About</a>
                                     <a href="#service">Skills</a>
                                     <a href="#portfolio">Portfolio</a>
-                                    <a href="#testimonial">Resume</a>
+                                    <a href="pdf/ROBIN LANGTON.pdf" target="_blank">Resume</a>
                                 </div>
                             </div>
                         </li>
