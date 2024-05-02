@@ -23,6 +23,7 @@ function Footer () {
                         <li class="list-body">
                             <div class="row">
                                 <div class="col">
+                                    <a href="#">Home</a>
                                     <a href="#about">About</a>
                                     <a href="#service">Skills</a>
                                     <a href="#portfolio">Portfolio</a>

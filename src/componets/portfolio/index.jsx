@@ -20,8 +20,8 @@ function Portfolio () {
                         <div class="overlay">
                             <div class="overlay-infos">
                                 <h5>Task Management App</h5>
-                                <a href="https://github.com/rrlangton/Task-Board"><i class="ti-github"></i></a>
-                                <a href="https://rrlangton.github.io/Task-Board/"><i class="ti-link"></i></a>
+                                <a href="https://github.com/rrlangton/Task-Board" target="_blank"><i class="ti-github"></i></a>
+                                <a href="https://rrlangton.github.io/Task-Board/" target="_blank"><i class="ti-link"></i></a>
                             </div>                              
                         </div>
                     </div>                  
@@ -32,8 +32,8 @@ function Portfolio () {
                         <div class="overlay">
                             <div class="overlay-infos">
                                 <h5>Weather Dashboard</h5>
-                                <a href="https://github.com/rrlangton/weather-dashboard"><i class="ti-github"></i></a>
-                                <a href="https://rrlangton.github.io/weather-dashboard/"><i class="ti-link"></i></a>
+                                <a href="https://github.com/rrlangton/weather-dashboard" target="_blank"><i class="ti-github"></i></a>
+                                <a href="https://rrlangton.github.io/weather-dashboard/" target="_blank"><i class="ti-link"></i></a>
                             </div>  
                         </div>
                     </div>
@@ -42,8 +42,8 @@ function Portfolio () {
                         <div class="overlay">
                             <div class="overlay-infos">
                                 <h5>Free Sound Database</h5>
-                                <a href="https://github.com/enkw/RF-Sound-Archive"><i class="ti-github"></i></a>
-                                <a href="https://rf-sound-archive-1.onrender.com/"><i class="ti-link"></i></a>
+                                <a href="https://github.com/enkw/RF-Sound-Archive" target="_blank"><i class="ti-github"></i></a>
+                                <a href="https://rf-sound-archive-1.onrender.com/" target="_blank"><i class="ti-link"></i></a>
                             </div>                              
                         </div>
                     </div>                  
@@ -54,8 +54,8 @@ function Portfolio () {
                         <div class="overlay">
                             <div class="overlay-infos">
                                 <h5>'Trivl' Fun Trivia Game</h5>
-                                <a href="https://github.com/njohnson2897/trivl-project"><i class="ti-github"></i></a>
-                                <a href="https://njohnson2897.github.io/trivl-project/"><i class="ti-link"></i></a>
+                                <a href="https://github.com/njohnson2897/trivl-project" target="_blank"><i class="ti-github"></i></a>
+                                <a href="https://njohnson2897.github.io/trivl-project/" target="_blank"><i class="ti-link"></i></a>
                             </div>  
                         </div>
                     </div>
@@ -64,8 +64,8 @@ function Portfolio () {
                         <div class="overlay">
                             <div class="overlay-infos">
                                 <h5>Note Taker</h5>
-                                <a href="https://github.com/rrlangton/note-taker"><i class="ti-github"></i></a>
-                                <a href="https://note-taker-1-u5ap.onrender.com/notes?"><i class="ti-link"></i></a>
+                                <a href="https://github.com/rrlangton/note-taker" target="_blank"><i class="ti-github"></i></a>
+                                <a href="https://note-taker-1-u5ap.onrender.com/notes?" target="_blank"><i class="ti-link"></i></a>
                             </div>                              
                         </div>
                     </div>                  
