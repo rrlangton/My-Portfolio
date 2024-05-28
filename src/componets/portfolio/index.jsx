@@ -28,12 +28,12 @@ function Portfolio () {
                 </div>
                 <div class="col-sm-4">
                     <div class="img-wrapper">
-                        <img src="assets/imgs/weatherdashboard.png" alt="image of weather dashboard"/>
+                        <img src="assets/imgs/bookmarkd.png" alt="image of weather dashboard"/>
                         <div class="overlay">
                             <div class="overlay-infos">
-                                <h5>Weather Dashboard</h5>
-                                <a href="https://github.com/rrlangton/weather-dashboard" target="_blank"><i class="ti-github"></i></a>
-                                <a href="https://rrlangton.github.io/weather-dashboard/" target="_blank"><i class="ti-link"></i></a>
+                                <h5>Bookmarkd</h5>
+                                <a href="https://github.com/njohnson2897/bookmarkd?tab=readme-ov-file" target="_blank"><i class="ti-github"></i></a>
+                                <a href="https://bookmarkd-boln.onrender.com/" target="_blank"><i class="ti-link"></i></a>
                             </div>  
                         </div>
                     </div>
