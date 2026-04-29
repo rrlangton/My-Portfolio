@@ -38,7 +38,6 @@ function Footer () {
                         <li class="list-body">
                             <p><i class="ti-email"></i>  rrlangton@gmail.com</p>
                             <p><i class="ti-linkedin"></i> https://www.linkedin.com/in/robinrlangton</p>
-                            <p><i class="ti-instagram"></i> robizzin</p>
                         </li>
                     </ul>
                 </div>
