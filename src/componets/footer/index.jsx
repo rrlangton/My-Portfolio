@@ -13,7 +13,7 @@ function Footer () {
                                 <img src="assets/imgs/logo.png" alt="logo image"/>
                                 <h6>Robin Langton</h6>
                             </a>
-                            <p>I've enjoyed working at fast-paced technology start-ups in Chicago, IL for the past ten years. I love solving challenging problems and I'm always eager to learn something new.</p>                  
+                            <p>Available for hire</p>                  
                         </li>
                     </ul>
                     <ul class="list">

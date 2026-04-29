@@ -36,22 +36,6 @@ function Contact () {
                         </div>
                     </div>
                 </div>
-                <div class="form">
-                    <h6 class="section-subtitle">Available 24/7</h6>
-                    <h6 class="section-title mb-4">Get In Touch</h6>
-                    <form>
-                        <div class="form-group">
-                            <input type="email" class="form-control form-control-lg" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" required/>
-                        </div>
-                        <div class="form-group">
-                            <input type="name" class="form-control form-control-lg" id="exampleInputName1" placeholder="Name" required/>
-                        </div>
-                        <div class="form-group">
-                            <textarea name="contact-message" id="" cols="30" rows="7" class="form-control form-control-lg" placeholder="Message"></textarea>
-                        </div>
-                        <button type="submit" class="btn btn-primary btn-block btn-lg mt-3">Send Message</button>
-                    </form>
-                </div>
             </div>
         </div>
     </section>
