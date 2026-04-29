@@ -36,6 +36,7 @@ function Footer () {
                             <h6 class="font-weight-bold">GET IN TOUCH</h6>
                         </li>
                         <li class="list-body">
+                            <p>Contact me and I'll get back to you as soon as possible.</p><br></br>
                             <p><i class="ti-email"></i>  rrlangton@gmail.com</p>
                         </li>
                     </ul>
