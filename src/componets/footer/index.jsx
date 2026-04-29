@@ -6,14 +6,13 @@ function Footer () {
                 <div class="footer-lists">
                     <ul class="list">
                         <li class="list-head">
-                            <h6 class="font-weight-bold">ABOUT ME</h6>
+                            <h6 class="font-weight-bold">ROBIN LANGTON</h6>
                         </li>
                         <li class="list-body">
                             <a href="#" class="logo">
-                                <img src="assets/imgs/logo.png" alt="logo image"/>
-                                <h6>Robin Langton</h6>
-                            </a>
-                            <p>Available for hire</p>                  
+                                <img src="assets/imgs/bitmoji.png" alt="logo image"/>
+                                <h6>Available for hire</h6>
+                            </a>                  
                         </li>
                     </ul>
                     <ul class="list">
