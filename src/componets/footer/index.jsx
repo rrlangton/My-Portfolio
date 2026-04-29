@@ -10,7 +10,7 @@ function Footer () {
                         </li>
                         <li class="list-body">
                             <a href="#" class="logo">
-                                <img src="assets/imgs/robolgo.png" alt="logo image"/>
+                                <img src="assets/imgs/robologo.png" alt="logo image"/>
                                 <h6>Available for hire</h6>
                             </a>                  
                         </li>
