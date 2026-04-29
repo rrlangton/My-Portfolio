@@ -11,7 +11,7 @@ function Footer () {
                         <li class="list-body">
                             <a href="#" class="logo">
                                 <img src="assets/imgs/robologo.png" alt="logo image"/>
-                                <h6>Available for hire</h6>
+                                <h6>AVAILABLE FOR HIRE</h6>
                             </a>                  
                         </li>
                     </ul>
@@ -37,7 +37,7 @@ function Footer () {
                         </li>
                         <li class="list-body">
                             <p>Contact me and I'll get back to you as soon as possible.</p><br></br>
-                            <p><i class="ti-email"></i>  rrlangton@gmail.com</p>
+                            <p><i class="ti-email"></i> rrlangton@gmail.com</p>
                         </li>
                     </ul>
                 </div>
