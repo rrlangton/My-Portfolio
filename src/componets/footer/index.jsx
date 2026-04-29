@@ -8,8 +8,8 @@ function Footer () {
                         <li class="list-head">
                             <h6 class="font-weight-bold">ROBIN LANGTON</h6>
                         </li>
+                        <p>Business Professional</p><br></br>
                         <li class="list-body">
-                            <p>Business Professional</p><br></br>
                             <a href="https://www.linkedin.com/in/robinrlangton" target="_blank" class="logo">
                                 <img src="assets/imgs/robologo.png" alt="logo image"/>
                                 <h6>HIRE ME</h6>
