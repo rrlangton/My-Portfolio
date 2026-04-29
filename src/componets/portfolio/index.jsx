@@ -2,7 +2,7 @@ function Portfolio () {
     return <>
     <section id="portfolio">
         <div class="container text-center">
-            <h6 class="section-title mb-5">My Portfolio</h6>
+            <h6 class="section-title mb-5">My Project Portfolio</h6>
             <div class="row">
                 <div class="col-sm-4">
                     <div class="img-wrapper">
