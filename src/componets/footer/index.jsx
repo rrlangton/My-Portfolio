@@ -33,11 +33,11 @@ function Footer () {
                     </ul>
                     <ul class="list">
                         <li class="list-head">
-                            <h6 class="font-weight-bold">CONTACT INFO</h6>
+                            <h6 class="font-weight-bold">GET IN TOUCH</h6>
                         </li>
                         <li class="list-body">
-                            <p>Contact me and I'll get back to you as soon as possible.</p><br></br>
                             <p><i class="ti-email"></i>  rrlangton@gmail.com</p>
+                            <p><i class="ti-linkedin"></i> </p>
                         </li>
                     </ul>
                 </div>
