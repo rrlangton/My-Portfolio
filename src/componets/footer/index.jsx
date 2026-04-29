@@ -9,7 +9,7 @@ function Footer () {
                             <h6 class="font-weight-bold">ROBIN LANGTON</h6>
                         </li>
                         <li class="list-body">
-                            <a href="https://www.linkedin.com/in/robinrlangton" class="logo">
+                            <a href="https://www.linkedin.com/in/robinrlangton" target="_blank" class="logo">
                                 <img src="assets/imgs/robologo.png" alt="logo image"/>
                                 <h6>HIRE ME</h6>
                             </a>                  
