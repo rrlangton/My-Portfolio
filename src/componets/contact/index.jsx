@@ -4,8 +4,8 @@ function Contact() {
       <section id="contact">
         <div className="container">
           <div className="contact-card" style={{ display: 'flex', alignItems: 'center' }}>
-            {/* Contact info */}
-            <div className="infos" style={{ flex: 1 }}>
+            {/* Contact info container */}
+            <div className="infos" style={{ flex: 1, paddingRight: '10px' }}>
               <h6 className="section-subtitle">Robin Langton</h6>
               <h6 className="section-title mb-4">Contact Me</h6>
 
@@ -38,12 +38,14 @@ function Contact() {
                 </div>
               </div>
             </div>
-            {/* Image on the right */}
-            <img
-              src="assets/imgs/watercolornb.png"
-              alt="Contact"
-              style={{ width: '150px', height: '150px', marginLeft: '20px', objectFit: 'cover' }}
-            />
+            {/* Image container */}
+            <div style={{ flex: 1, paddingLeft: '10px' }}>
+              <img
+                src="https://your-image-url.com/image.jpg"
+                alt="Contact"
+                style={{ width: '100%', height: 'auto', objectFit: 'cover' }}
+              />
+            </div>
           </div>
         </div>
       </section>
