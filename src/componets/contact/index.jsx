@@ -41,7 +41,7 @@ function Contact() {
             {/* Image container */}
             <div style={{ flex: 1, paddingLeft: '10px' }}>
               <img
-                src="https://your-image-url.com/image.jpg"
+                src="assets/imgs/watercolornb.png"
                 alt="Contact"
                 style={{ width: '100%', height: 'auto', objectFit: 'cover' }}
               />
