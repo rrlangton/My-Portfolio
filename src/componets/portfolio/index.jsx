@@ -9,7 +9,7 @@ function Portfolio () {
                         <img src="assets/imgs/tech-blog.png" alt="image of login page of tech blog"/>
                         <div class="overlay">
                             <div class="overlay-infos">
-                                <h5>Tech Blog</h5>
+                                <h5>Blog</h5>
                                 <a href="https://github.com/rrlangton/Tech-Blog" target="_blank"><i class="ti-github"></i></a>
                                 <a href="https://tech-blog-m2u7.onrender.com/" target="_blank"><i class="ti-link"></i></a>
                             </div>  
@@ -19,7 +19,7 @@ function Portfolio () {
                         <img src="assets/imgs/project2.png" alt="image of a task management board"/>
                         <div class="overlay">
                             <div class="overlay-infos">
-                                <h5>Task Management App</h5>
+                                <h5>Kanban Board</h5>
                                 <a href="https://github.com/rrlangton/Task-Board" target="_blank"><i class="ti-github"></i></a>
                                 <a href="https://rrlangton.github.io/Task-Board/" target="_blank"><i class="ti-link"></i></a>
                             </div>                              
@@ -53,7 +53,7 @@ function Portfolio () {
                         <img src="assets/imgs/trivl.png" alt="image of trivl, trivia app"/>
                         <div class="overlay">
                             <div class="overlay-infos">
-                                <h5>'Trivl' Fun Trivia Game</h5>
+                                <h5>Trivl</h5>
                                 <a href="https://github.com/njohnson2897/trivl-project" target="_blank"><i class="ti-github"></i></a>
                                 <a href="https://njohnson2897.github.io/trivl-project/" target="_blank"><i class="ti-link"></i></a>
                             </div>  
